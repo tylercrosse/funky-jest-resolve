@@ -1,0 +1,29 @@
+exports[`<App /> should render correctly 1`] = `
+<div
+  className="App">
+  <div
+    className="App-header">
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg" />
+    <h2>
+      Welcome to React
+    </h2>
+  </div>
+  <p
+    className="App-intro">
+    To get started, edit 
+    <code>
+      src/App.js
+    </code>
+     and save to reload.
+  </p>
+  <h1>
+    Foo
+  </h1>
+  <h1>
+    Bar
+  </h1>
+</div>
+`;
